@@ -1,0 +1,34 @@
+{
+    "one":1,
+    "two":1.0,
+    "three":"123",
+    "four_game":123123123,
+    "lala":{
+        "why":"haha",
+        "test":123,
+        "ssv":"baidu",
+        "http":"shit",
+        "woca":123
+    },
+    "lala2":{
+        "why":"haha",
+        "test":123,
+        "ssv":"baidu",
+        "http":"shit",
+        "woca":123
+    },
+    "lala3":{
+        "why":"haha",
+        "test":123,
+        "ssv":"baidu",
+        "http":"shit",
+        "woca2":456
+    },
+    "papa":[
+        {
+            "why":"123",
+            "not":false,
+            "vvv":999
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "Input": "/Users/cable/workspace/work/haha/test.json",
+    "OutPut": "/Users/cable/workspace/work/haha",
+    "PackageName": "com.tencent.log",
+    "ClassName": "NormalSetting",
+    "Enable": true,
+    "SameNumber": 4,
+    "DiffNumber": 4,
+    "CamelName": false
+  }
+]
